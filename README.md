@@ -4,6 +4,8 @@ A header-only basic Affine Cipher implementation modulo 97 (all characters commo
 
 Uses my header-only implementations of [integers modulo N](https://gitlab.com/mathnerd/integers-modulo-n).
 
+**Note: This was developed for educational purposes. Do not use this in any production code.**
+
 # Usage
 Here's a basic example:
 ```
